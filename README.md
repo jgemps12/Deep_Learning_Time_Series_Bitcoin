@@ -18,6 +18,8 @@ Drive for them to work on the Google Colab notebook listed below. To run these f
 
 > 3.) Inside the **BTC_USD** folder, upload *all four* .csv files onto Google Drive. The dataset files should now cooperate with the Google Colab notebook.
 
+You can access the data source from: https://finance.yahoo.com/quote/BTC-USD/history/
+
 ## Source Information
 
 1.) **Jupyter Lab** notebook
