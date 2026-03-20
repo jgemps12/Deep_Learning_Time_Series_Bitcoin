@@ -34,3 +34,8 @@ You can access the data source from: https://finance.yahoo.com/quote/BTC-USD/his
   - A ***PDF*** version can be found in this **repository**. 
   - An ***online***, read-only version can be viewed by clicking this **link**:
     - https://www.overleaf.com/read/gxyhtddsvzcp#613bfa
+
+## Academic Integrity Notice:
+This repository contains coursework completed as part of my Bachelor's degree. It is publicly shared for educational and portfolio-related use only.
+
+If you are a student, DO NOT use this repository in any way that violates your institution's academic integrity policies. These violations include copying, reusing, or submitting any code (and other resources) as your own work.
